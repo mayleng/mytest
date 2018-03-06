@@ -1,0 +1,7 @@
+2018-03-06 10:35:52.0056 WARN  this is a Nlog warn log!  Button.RaisePostBackEvent => Button.OnClick => log.Button3_Click
+2018-03-06 10:35:52.0680 FATAL  this is a Nlog fatal log!  Button.RaisePostBackEvent => Button.OnClick => log.Button3_Click
+2018-03-06 10:35:52.0680 DEBUG  this is a Nlog debug log!  Button.RaisePostBackEvent => Button.OnClick => log.Button3_Click
+2018-03-06 10:35:52.0680 TRACE  this is a Nlog trace log!  Button.RaisePostBackEvent => Button.OnClick => log.Button3_Click
+2018-03-06 10:35:52.0680 ERROR  this is a Nlog error log!  Button.RaisePostBackEvent => Button.OnClick => log.Button3_Click
+2018-03-06 10:35:52.0680 INFO  this is a Nlog info log  Button.RaisePostBackEvent => Button.OnClick => log.Button3_Click
+2018-03-06 10:35:52.0680 INFO  this is a Nlog common log  Button.RaisePostBackEvent => Button.OnClick => log.Button3_Click
