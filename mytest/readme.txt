@@ -6,4 +6,3 @@
    
   Redis中的追加，弹出框值不是追加的value。
 
-4.netframework4.6框架无法在server2008上部署成功。
